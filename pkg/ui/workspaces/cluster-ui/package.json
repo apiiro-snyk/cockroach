@@ -36,7 +36,7 @@
     "@cockroachlabs/crdb-protobuf-client": "workspace:../db-console/src/js",
     "@cockroachlabs/design-tokens": "0.4.5",
     "@cockroachlabs/icons": "0.5.2",
-    "@cockroachlabs/ui-components": "0.4.3",
+    "@cockroachlabs/ui-components": "0.7.14",
     "@popperjs/core": "^2.4.0",
     "@reduxjs/toolkit": "^1.5.0",
     "@redux-saga/core": "1.1.3",
